@@ -290,8 +290,6 @@ This is a portfolio project, but suggestions and feedback are welcome! If you'd 
 **Paula Meneses Salinas**
 
 - GitHub: [@PaulaMenesesSalinas](https://github.com/PaulaMenesesSalinas)
-- LinkedIn: [Add your LinkedIn]
-- Portfolio: [Add your portfolio website]
 
 ---
 
@@ -303,7 +301,7 @@ This project was created as a final bootcamp project and is available for educat
 
 ## 🙏 Acknowledgments
 
-- Built as the final project for [Your Bootcamp Name]
+- Built as the final project for Python Backend Programming (DCI Digital Career Institute)
 - Thanks to the bootcamp instructors and classmates for their support
 - UI inspiration from modern freelancing platforms
 
